@@ -44,7 +44,7 @@ st.markdown("""
 <p style = 'font-size:20px' >Explore the Minimum Selling Price (MSP) trends for various crops over the last 10 years. Make informed decisions to maximize your farming profits!</p>
 </div>
 """, unsafe_allow_html=True)
-df = pd.read_csv('features\msp.csv')
+df = pd.read_csv('features/msp.csv')
 
 
 selected_crop = st.selectbox('Select Crop', df['crop'])
