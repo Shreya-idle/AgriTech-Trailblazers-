@@ -4,3 +4,4 @@ requests
 geopy
 seaborn
 matplotlib
+openpyxl
