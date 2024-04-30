@@ -3,7 +3,7 @@ import pandas as pd
 
 st.set_page_config(page_title="AgriTech",layout="wide",page_icon=None)
 def boxed_component():
-    excel_file_path = "AgriTech-Trailblazers-/features/govt_scheme.xlsx"
+    excel_file_path = "/features/govt_scheme.xlsx"
     sheet_name = "Sheet1"
     df = pd.read_excel(excel_file_path, sheet_name=sheet_name)
     row_no = 0
