@@ -2,3 +2,5 @@ scikit-learn
 google
 requests
 geopy
+seaborn
+matplotlib
