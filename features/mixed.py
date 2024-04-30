@@ -5,7 +5,7 @@ class MixedCroping:
         self.__initialize_data()
     
     def __initialize_data(self):
-        self.df = pd.read_csv("features\nutrients.csv")
+        self.df = pd.read_csv(".\features\nutrients.csv")
         self.crop = self.df["Crop"]
         self.crop_index = {value: key for key, value in enumerate(self.crop)}
     
