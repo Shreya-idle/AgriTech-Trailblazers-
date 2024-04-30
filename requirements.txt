@@ -1,5 +1,5 @@
 scikit-learn
-google
+google-generativeai
 requests
 geopy
 seaborn
