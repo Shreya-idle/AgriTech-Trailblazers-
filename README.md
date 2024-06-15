@@ -18,7 +18,6 @@ Welcome to AgriTech! This project aims to revolutionize the agricultural sector 
 - [Tech Stack](#tech-stack)
 - [Getting Started](#getting-started)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 
@@ -70,21 +69,15 @@ AgriTech leverages several APIs to provide its functionalities:
 ## Tech Stack
 
 AgriTech is built using the following technologies:
-- **Frontend**: HTML, CSS, JavaScript, React.js
-- **Backend**: Node.js, Express.js
-- **Database**: MongoDB
+- **Frontend**: HTML, CSS, JavaScript
+- **Language**: Python
 - **APIs**: Various third-party APIs for weather, market prices, and soil health
 - **Version Control**: Git and GitHub
 
-## Getting Started
-
-To get a local copy of the project up and running, follow these steps:
-
 ### Prerequisites
-- Node.js and npm installed
-- MongoDB installed and running
+- 
 
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/agritech.git
+   git clone (https://github.com/Shreya-idle/AgriTech.git)
